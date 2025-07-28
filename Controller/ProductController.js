@@ -1,5 +1,5 @@
 const productModel = require('../Models/Product');
-const cloudinary = require('../Utils/cloudinary');
+const cloudinary = require('../Utils/Cloudinary');
 const fs = require('fs');
 
 class productController {
