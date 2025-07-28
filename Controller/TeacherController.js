@@ -1,6 +1,6 @@
 const Teacher = require('../Models/Teacher');
 const teacherModel = require('../Models/Teacher')
-const cloudinary = require('../Utils/cloudinary');
+const cloudinary = require('../Utils/Cloudinary');
 const fs = require('fs');
 
 class teacherController {
